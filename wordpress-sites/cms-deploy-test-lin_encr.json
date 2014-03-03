@@ -1,0 +1,33 @@
+domain:
+  cipher:         aes-256-cbc
+  encrypted_data: NEG5pVBZRagZlxrze9NLSw7ysG+WDjIcdOgPAwQ1BTanI44EkkoLY6A4/IBn
+  DPhf
+  
+  iv:             P0+QTL2xg6pNbxSTYJ+oUg==
+  
+  version:        1
+id:     cms-deploy-test-lin
+mysql:
+  cipher:         aes-256-cbc
+  encrypted_data: xbKeFiq0NYL7SAvFOuEnCRVZTQ2UN6Ziqpk1WjVPtkBxCHDkrfkEPmfWUm2E
+  9Hw/vm0RZ9Sed59HUeORPJWO62ZMhAC5KAwTQWZa1yuQ4Dp1OQy7VOlXOx5w
+  9tpbEu4jIrTL0HXDbrw7Xe/fFCI/0A==
+  
+  iv:             R6T1BlK63UmtqUbRULB0oA==
+  
+  version:        1
+wp:
+  cipher:         aes-256-cbc
+  encrypted_data: hlBZ8HomVB32lyrjunI9NHTFqxjHec2G1wsGObkaP4nVgFAhyAIQVYLTTGGF
+  OHJfMKr41T+1Dw0vvwHrtBdc8iT42ujiLjCpIUX0k6Sfi5/ZMFgDOOv/ZAA7
+  YDHnMZba6Gs47dhdbbuT22fKski7r6VDXIo73rLEsToNbEQK5GRdde1Zlhho
+  E+NQkPNi8/IWkQgtM3hkGh1KHU5C5emDzEXWT9XwVwD4mqj9DMebPdQfJObf
+  w2KKpbR24m8VuoWxo7gI6OQleSDDLJVKwLu5bdpFPL6v0tAzBEOIb+qm1BpY
+  cUEZ4Pi4mAaRHaRdqo6TzkIHFha+h5LHaEGY7SBV+FScirZ1XiZqha98PAjV
+  jx+Zvl6euhwqgqJ5bK6aSls2tYpkug+7wYLyqGrZTX1Jd85/cqUydzR6RrSo
+  1a9yz490nMaoFffF+aNPvnRbCAPU4NuOSULpcieBgoW8NE+vMni/KZw3Uan9
+  piHxq0MR6f93hK31Z5HsaPrgRjNzIz8k
+  
+  iv:             WIx6RanH/pcBh75HpuVGcg==
+  
+  version:        1
